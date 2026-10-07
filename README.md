@@ -8,6 +8,10 @@ I build **VERIS**, a permissioned blockchain protocol for verifiable elections: 
 - **[veris-verify](https://github.com/AhmethanKalenderoglu/veris-verify)**: checks the Ed25519 signatures on the VERIS project sites. Bash, tested in CI.
 - **[morse](https://github.com/AhmethanKalenderoglu/morse)**: two-way Morse code translator with sound output. Python, no dependencies.
 
+### Contributions
+
+- **[ethereum/py_ecc#162](https://github.com/ethereum/py_ecc/pull/162)**: fixed a stack overflow on Windows and wrong results for negative exponents in finite-field arithmetic.
+
 ### Signed releases
 
 Pages and releases I publish are signed with this SSH key:
