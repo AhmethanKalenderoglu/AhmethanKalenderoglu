@@ -22,4 +22,6 @@ How to verify: [ahmethankalenderoglu.com/dogrulama](https://ahmethankalenderoglu
 
 ### Contact
 
-[ahmethankalenderoglu.com](https://ahmethankalenderoglu.com)
+ahmethan@ahmethankalenderoglu.com (for general)
+
+ahmethan@veris.vote (for about veris project)
