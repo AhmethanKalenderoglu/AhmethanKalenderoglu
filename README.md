@@ -11,6 +11,7 @@ I build **VERIS**, a permissioned blockchain protocol for verifiable elections: 
 ### Contributions
 
 - **[ethereum/py_ecc#162](https://github.com/ethereum/py_ecc/pull/162)**: fixed a stack overflow on Windows and wrong results for negative exponents in finite-field arithmetic.
+- **[ethereum/execution-specs#3776](https://github.com/ethereum/execution-specs/pull/3776)**: unit tests for the new fork tool's codemods, which also caught a bug in constant rewriting.
 
 ### Signed releases
 
