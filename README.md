@@ -12,6 +12,8 @@ I build **VERIS**, a permissioned blockchain protocol for verifiable elections: 
 
 - **[ethereum/py_ecc#162](https://github.com/ethereum/py_ecc/pull/162)**: fixed a stack overflow on Windows and wrong results for negative exponents in finite-field arithmetic.
 - **[ethereum/execution-specs#3776](https://github.com/ethereum/execution-specs/pull/3776)**: unit tests for the new fork tool's codemods, which also caught a bug in constant rewriting.
+- **[ethereum/execution-specs#3869](https://github.com/ethereum/execution-specs/pull/3869)**: failing tests with `--traces` now print the EVM trace as a compact table instead of one JSON object per step.
+- **[hiero-ledger/hiero-sdk-python#2739](https://github.com/hiero-ledger/hiero-sdk-python/pull/2739)**: moved the token creation end-to-end tests to the shared environment fixture.
 
 ### Signed releases
 
